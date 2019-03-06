@@ -42,6 +42,10 @@ To run our demo please run:
 (venvname)$ python test_norland.py --help
 ```
 Note: This version runs with the downsampled version of Partitioned Nordland.
+#### 3.1 Download Caffe Models
+Soon available...
+Fine-tuned version: [download]()
+Not Fine-tuned version: [download]()
 ## Contact
 You can find my contact information in my [Personal Website](http://webdiis.unizar.es/~jmfacil/)
 ## License and Citation
