@@ -1,0 +1,23 @@
+# The train/test net protocol buffer definition
+net: "examples/nordland/models/not_fine_tuned/triplet_vgg16_pool4_fc_128_fine_train.prototxt"
+# The base learning rate, momentum and the weight decay of the network.
+base_lr: 0.0000001 #lr
+# momentum: 0.9
+weight_decay: 0.00000005
+# The learning rate policy
+type: "Adam"
+lr_policy: "step"
+gamma: 0.1
+stepsize: 20000
+# Display every 1000 iterations
+display: 1000
+# The maximum number of iterations
+max_iter: 208680
+# snapshot intermediate results
+#snapshot: 20868
+snapshot: 208680
+# snapshot_format: HDF5
+snapshot_prefix: "~/caffe/examples/nordland/new_tests/triplet_vgg16_pool4_fc_128"
+# solver mode: CPU or GPU
+solver_mode: GPU
+
