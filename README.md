@@ -43,8 +43,6 @@ To run our demo please run:
 ```
 Note: This version runs with the downsampled version of Partitioned Nordland.
 #### 3.1 Download Caffe Models
-Soon available...
-
 Fine-tuned version: [download](https://drive.google.com/file/d/1OQP5vkWyzwbxrzrNVD5BFDTd5n3gq-tR/view?usp=sharing)
 
 Not Fine-tuned version: [download](https://drive.google.com/file/d/1OR1KB1_QBb_ND0DgAJ0Z6pds1-wemhIn/view?usp=sharing)
