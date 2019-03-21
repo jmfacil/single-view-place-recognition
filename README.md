@@ -58,7 +58,7 @@ Please cite our paper if it helps your research:
   ```bibtex
   @article{olid2018single,
     title={Single-View Place Recognition under Seasonal Changes},
-    author={Olid, Daniel and F{\'a}cil, Jos{\'e} M and Civera, Javier},
+    author={Olid, Daniel and Facil, Jose M and Civera, Javier},
     journal={arXiv preprint arXiv:1808.06516},
     year={2018}
   }
